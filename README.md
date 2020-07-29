@@ -13,4 +13,4 @@ It was unexpected to see the sentiments of tweets in April were majorly **happy*
 The sentiments in June were mostly **fearful** as we would expect.  
   
     
-https://github.com/adimalhotra11/CovidTweetsAnalysis/blob/master/graph_June.png?raw=true
+![alt text](https://github.com/adimalhotra11/CovidTweetsAnalysis/blob/master/graph_June.png?raw=true)
